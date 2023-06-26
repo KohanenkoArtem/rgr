@@ -1,0 +1,317 @@
+price(mln),area,latitude,longitude,Bedrooms,Bathrooms,Balcony,parking,Lift,Status,neworold,Furnished_status,type_of_building
+15.0,610.0,19.1746739,72.94310379999999,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+26.2,1676.0,19.200165,72.868551,3.0,3.0,0.0,0.0,0.0,Ready to Move,New Property,SAS,Flat
+16.0,1075.0,19.1654181,72.9667254,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+17.0,1050.0,19.068051,72.89605,2.0,2.0,3.0,3.0,3.0,Ready to Move,Resale,SAS,Flat
+25.0,900.0,19.22793,72.83221999999999,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+11.0,560.0,19.1154899597168,72.87269592285156,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+37.5,1100.0,19.20580673217773,72.83200073242188,3.0,3.0,1.0,1.0,1.0,Ready to Move,Resale,Furnished,Flat
+17.0,870.0,19.2035935,72.8280028,2.0,2.0,3.0,3.0,3.0,Ready to Move,Resale,SAS,Flat
+18.0,707.0,19.195988,72.868512,2.0,2.0,0.0,0.0,0.0,SAS,New Property,Unfurnished,Flat
+20.0,750.0,19.12319,72.84026,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+230.0,4600.0,19.0082903,72.8201324,4.0,4.0,2.0,2.0,2.0,SAS,New Property,Semi-Furnished,Flat
+7.2,960.0,19.28217,72.87654,2.0,2.0,3.0,3.0,3.0,Ready to Move,Resale,SAS,Flat
+75.0,850.0,18.950754,72.80206379999998,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+25.0,1350.0,19.11825,72.85898,3.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+16.5,909.0,19.220612,72.864144,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+30.0,1325.0,19.1154899597168,72.87269592285156,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+25.0,853.0,19.068051,72.89605,3.0,3.0,1.0,1.0,1.0,Ready to Move,Resale,Unfurnished,Flat
+18.0,893.0,19.119677300000003,72.9050809,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+7.5,1060.0,19.3785922,72.8275321,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+20.5,1042.0,19.119007110595703,72.86405181884766,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+9.8,900.0,19.21339,72.93141999999999,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+13.5,1118.0,19.28217,72.87654,2.0,2.0,3.0,3.0,3.0,Ready to Move,Resale,SAS,Flat
+72.9,2467.0,19.028239000000003,72.87855,4.0,4.0,0.0,0.0,0.0,Ready to Move,New Property,Semi-Furnished,Flat
+17.9,981.0,19.179115,72.95762490000001,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+9.9,1080.0,19.28217,72.87654,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+26.0,720.0,19.0151285,72.8580644,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+7.2,1150.0,19.240615100000003,73.0951298,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Individual House
+32.5,1200.0,19.0627565,72.8545019,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+23.9,1500.0,19.051279067993164,72.89051055908203,3.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+19.5,840.0,19.079101,72.846114,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+8.6,1045.0,19.293286,72.869699,2.0,2.0,4.0,4.0,4.0,Ready to Move,New Property,SAS,Flat
+19.0,1100.0,19.164336,72.953011,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Individual House
+19.5,875.0,19.2099437,72.83086920000001,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+3.5,660.0,19.14017105102539,72.94310760498047,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+35.0,1640.0,19.1297376,72.8291555,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+131.0,1950.0,18.9539068507838,72.795869392867,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+14.0,700.0,19.1866207,72.84291970000001,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+24.5,1512.0,19.081382,72.886193,3.0,3.0,3.0,3.0,3.0,Ready to Move,Resale,SAS,Flat
+25.0,1530.0,19.209943771362305,72.83087158203125,3.0,3.0,4.0,4.0,4.0,Ready to Move,Resale,Furnished,Flat
+18.7,1014.0,19.16668,72.94845,2.0,2.0,1.0,1.0,1.0,SAS,New Property,Unfurnished,Flat
+9.0,965.0,19.2783121,72.8580188,2.0,2.0,4.0,4.0,4.0,Ready to Move,Resale,SAS,Flat
+5.5,915.0,19.404013600000003,72.8395261,2.0,2.0,4.0,4.0,4.0,Ready to Move,Resale,SAS,Flat
+9.5,975.0,19.2897038254961,72.8707605254938,2.0,2.0,2.0,2.0,2.0,Ready to Move,Resale,SAS,Flat
+80.0,3500.0,19.098074,72.91985,4.0,4.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+11.0,576.0,19.050920486450195,72.89491271972656,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+18.0,700.0,19.0753764,72.86631729999999,3.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Individual House
+75.0,2200.0,19.0175169,72.84711690000002,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+6.4,950.0,19.3693345,72.806127,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+27.0,1275.0,19.0248623135139,72.8665752942687,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+65.0,2600.0,19.174673080444336,72.94310760498047,6.0,6.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+43.0,1820.0,19.17167384,72.86478709,3.0,3.0,2.0,2.0,2.0,Ready to Move,Resale,SAS,Flat
+120.0,1700.0,18.9351066,72.8272687,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+59.0,858.0,18.96249,72.81748,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,Unfurnished,Flat
+14.0,750.0,19.217369079589844,72.83026123046875,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+120.0,2000.0,19.06029319763184,72.82763671875,3.0,3.0,2.0,2.0,2.0,Ready to Move,Resale,Unfurnished,Flat
+26.0,1768.0,19.153724,72.844521,3.0,3.0,0.0,0.0,0.0,SAS,Resale,Unfurnished,Flat
+47.0,1700.0,19.12537002563477,72.8254165649414,4.0,4.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+22.5,1258.0,19.080824,72.897989,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+70.0,2205.0,19.0175169,72.84711690000002,3.0,3.0,3.0,3.0,3.0,Ready to Move,Resale,SAS,Flat
+6.2,885.0,19.2873918,72.87671800000001,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,SAS,Flat
+42.5,1104.0,19.01751708984375,72.84711456298828,2.0,2.0,5.0,5.0,5.0,Ready to Move,Resale,Semi-Furnished,Flat
+18.5,870.0,19.05128,72.89050999999999,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+44.5,2500.0,19.0531452,72.902321,4.0,4.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+16.0,980.0,19.0418764,72.910566,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+15.0,1080.0,19.1889733,72.8220064,2.0,3.0,0.0,0.0,0.0,SAS,Resale,Furnished,Flat
+7.0,900.0,19.28051376342773,72.87606811523438,2.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+17.0,1700.0,19.189329,72.864735,3.0,3.0,3.0,3.0,3.0,Ready to Move,Resale,SAS,Flat
+26.0,860.0,19.13431,72.93415,3.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+22.5,1175.0,19.233531951904297,72.83919525146484,3.0,3.0,1.0,1.0,1.0,Ready to Move,Resale,Semi-Furnished,Flat
+33.0,925.0,19.0217472077863,72.84346191187021,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+13.5,800.0,19.2539332,72.8672448,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Individual House
+9.8,550.0,19.25393295288086,72.86724853515625,2.0,2.0,4.0,4.0,4.0,Ready to Move,Resale,Semi-Furnished,Flat
+30.0,1000.0,19.043911,72.89877800000001,3.0,2.0,3.0,3.0,3.0,Ready to Move,Resale,Furnished,Flat
+7.8,720.0,19.28217,72.87654,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+30.0,1680.0,19.03731,72.87871,3.0,2.0,4.0,4.0,4.0,Ready to Move,Resale,SAS,Flat
+22.0,1200.0,19.163222,72.849581,3.0,3.0,0.0,0.0,0.0,SAS,Resale,Unfurnished,Flat
+8.64,950.0,19.282975,72.87361800000001,2.0,2.0,0.0,0.0,0.0,SAS,Resale,Semi-Furnished,Flat
+7.0,1050.0,19.4540588,72.7688226,3.0,3.0,2.0,2.0,2.0,Ready to Move,Resale,SAS,Flat
+17.0,950.0,19.1608213928017,72.834409532651,2.0,2.0,1.0,1.0,1.0,Ready to Move,New Property,SAS,Flat
+24.0,1100.0,19.1297376,72.8291555,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+22.5,1050.0,19.22833,72.86658,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,Unfurnished,Flat
+45.5,1705.0,19.04094,72.86528100000001,3.0,4.0,0.0,0.0,0.0,SAS,New Property,Unfurnished,Flat
+20.5,1000.0,19.148061752319336,72.84230041503906,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+20.0,812.0,19.1288105,72.84658759999999,2.0,2.0,0.0,0.0,0.0,Ready to Move,New Property,SAS,Flat
+12.5,1188.0,19.3047794,72.8604097,3.0,3.0,3.0,3.0,3.0,Ready to Move,Resale,Unfurnished,Flat
+9.0,1320.0,19.369335174560547,72.8061294555664,3.0,3.0,3.0,3.0,3.0,Ready to Move,Resale,Unfurnished,Flat
+4.5,1100.0,19.4540588,72.7688226,3.0,2.0,4.0,4.0,4.0,Ready to Move,Resale,SAS,Flat
+4.3,720.0,19.3833242,72.8308602,2.0,2.0,3.0,3.0,3.0,Ready to Move,Resale,SAS,Flat
+34.9,1700.0,19.165488600000003,72.8293225,3.0,3.0,1.0,1.0,1.0,Ready to Move,Resale,SAS,Flat
+26.5,1450.0,19.1889733,72.8220064,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+14.0,750.0,19.1654181,72.9667254,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+30.0,905.0,19.10072562862488,72.85056592394254,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,Unfurnished,Flat
+5.5,729.0,19.278546,72.870655,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+39.5,1690.0,19.0013826,72.84845279999999,3.0,3.0,3.0,3.0,3.0,Ready to Move,Resale,SAS,Flat
+20.0,700.0,18.9713355,72.81462040000001,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+49.0,1350.0,19.070864800000003,72.80974300000001,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+14.0,2000.0,19.234639,73.16113399999999,4.0,4.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+8.0,825.0,19.282169342041016,72.87654113769531,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+15.0,575.0,19.1297376,72.8291555,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,Furnished,Flat
+50.0,1250.0,19.02836,72.83829,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+14.0,920.0,19.1075442290832,72.9038689634943,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+20.0,875.0,19.111839294433597,72.85077667236328,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,Furnished,Flat
+9.0,1200.0,19.2921161,72.8616392,2.0,2.0,2.0,2.0,2.0,Ready to Move,Resale,SAS,Flat
+11.0,1200.0,19.221725463867188,72.83316802978516,3.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,Unfurnished,Flat
+60.0,1000.0,18.950754,72.80206379999998,2.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+16.0,1000.0,19.25006,72.84921,2.0,2.0,1.0,1.0,1.0,SAS,New Property,Semi-Furnished,Flat
+17.1,1000.0,19.152833,72.93755,2.0,2.0,0.0,0.0,0.0,SAS,New Property,Unfurnished,Flat
+15.0,1200.0,18.96249,72.81748,2.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Individual House
+17.9,950.0,19.1181,72.89485,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+41.0,2160.0,19.160486,72.945419,3.0,5.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+6.5,985.0,19.4718215,72.80537220000001,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+6.0,1100.0,19.3785922,72.8275321,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+23.5,1400.0,19.1297376,72.8291555,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+6.3,1000.0,19.28217,72.87654,2.0,4.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+40.0,1595.0,18.94976,72.82273,2.0,2.0,1.0,1.0,1.0,Ready to Move,New Property,Unfurnished,Flat
+20.0,1000.0,19.0810128,72.8500709,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+55.0,2000.0,19.123135,72.8256728,3.0,3.0,3.0,3.0,3.0,Ready to Move,Resale,SAS,Flat
+15.0,510.0,19.1297376,72.8291555,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+20.5,1390.0,19.11652479,72.87795715,3.0,3.0,0.0,0.0,0.0,Ready to Move,New Property,SAS,Flat
+17.5,1280.0,19.2050017,72.86927109999999,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+20.0,1650.0,18.952898,72.829655,3.0,3.0,1.0,1.0,1.0,Ready to Move,Resale,Furnished,Flat
+14.4,1000.0,19.1859,72.84037,2.0,2.0,0.0,0.0,0.0,SAS,New Property,Unfurnished,Flat
+21.5,1200.0,19.10919095,72.88469140000001,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+27.5,1290.0,19.2335321,72.839198,3.0,2.0,0.0,0.0,0.0,Ready to Move,New Property,SAS,Flat
+11.5,700.0,19.2100454,72.8183494,2.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+8.5,750.0,19.364965438842773,72.86177825927734,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+14.9,920.0,19.1116197,72.8539537,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,SAS,Flat
+21.0,900.0,19.0810128,72.8500709,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+22.5,1280.0,19.1297376,72.8291555,2.0,2.0,2.0,2.0,2.0,Ready to Move,Resale,Unfurnished,Flat
+12.0,1280.0,19.2930385,72.877269,3.0,3.0,5.0,5.0,5.0,Ready to Move,Resale,SAS,Flat
+18.0,838.0,19.04333,72.86189,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+12.0,860.0,19.202279,72.82840999999999,2.0,2.0,0.0,0.0,0.0,SAS,New Property,Furnished,Flat
+15.5,709.0,19.201016,72.825331,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+17.5,1015.0,19.1811016666667,72.85905,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,SAS,Flat
+19.9,886.0,19.1743133403834,72.838189899349,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+28.0,1118.0,19.159008026123047,72.86927032470703,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+22.5,959.0,19.053375,72.897061,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,SAS,Flat
+30.0,1000.0,18.963298797607425,72.84329223632812,2.0,3.0,0.0,0.0,0.0,Ready to Move,New Property,Semi-Furnished,Flat
+11.5,950.0,19.058354100000003,72.8802798,2.0,2.0,0.0,0.0,0.0,SAS,Resale,Unfurnished,Flat
+18.0,1050.0,19.16541862487793,72.96672821044922,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+5.8,965.0,19.447705,72.7986113,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+18.0,600.0,19.233531951904297,72.83919525146484,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+22.0,1400.0,19.1154908,72.87269520000001,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+19.9,1109.0,19.066332,72.899295,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+25.0,1260.0,18.976914,72.83160500000001,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,Unfurnished,Flat
+40.0,2000.0,19.066145,72.834035,4.0,2.0,4.0,4.0,4.0,Ready to Move,Resale,SAS,Flat
+14.5,700.0,19.2252012,72.8447537,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+44.0,1820.0,19.1590077,72.86927109999999,3.0,3.0,2.0,2.0,2.0,Ready to Move,Resale,Semi-Furnished,Flat
+18.0,750.0,19.1154899597168,72.87269592285156,2.0,2.0,2.0,2.0,2.0,Ready to Move,Resale,Semi-Furnished,Flat
+105.0,2200.0,19.070726,72.836127,4.0,4.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+34.0,1700.0,19.216866,72.86649054,3.0,3.0,2.0,2.0,2.0,Ready to Move,Resale,SAS,Flat
+45.0,1100.0,18.9713355,72.81462040000001,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+9.4,855.0,19.28217,72.87654,2.0,2.0,2.0,2.0,2.0,Ready to Move,Resale,Semi-Furnished,Flat
+27.0,1200.0,19.2273315,72.8637286,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+20.5,750.0,18.9713355,72.81462040000001,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+8.0,700.0,19.28217,72.87654,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+45.0,1950.0,19.180237,72.85541490000001,3.0,3.0,5.0,5.0,5.0,Ready to Move,Resale,Unfurnished,Flat
+32.0,1007.0,19.107994079589844,72.85406494140625,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+17.5,717.0,19.1297376,72.8291555,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+20.5,845.0,19.119356155395508,72.86461639404297,2.0,2.0,3.0,3.0,3.0,Ready to Move,Resale,Furnished,Flat
+32.5,1194.0,19.11245516,72.84829627,2.0,2.0,3.0,3.0,3.0,Ready to Move,Resale,SAS,Flat
+41.5,2100.0,19.1530667280098,72.8399915962635,3.0,4.0,2.0,2.0,2.0,Ready to Move,Resale,SAS,Flat
+27.5,1495.0,19.2062083,72.87253100000001,3.0,2.0,1.0,1.0,1.0,Ready to Move,New Property,SAS,Flat
+55.0,6000.0,19.3693345,72.806127,6.0,5.0,0.0,0.0,0.0,SAS,Resale,Semi-Furnished,Flat
+130.0,1700.0,19.109411239624023,72.83282470703125,4.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+22.0,1350.0,19.058655107985302,72.89045381863271,2.0,2.0,2.0,2.0,2.0,Ready to Move,Resale,SAS,Flat
+47.5,1300.0,19.0815087,72.8376755,3.0,3.0,0.0,0.0,0.0,Ready to Move,New Property,SAS,Flat
+23.4,850.0,19.02935005594641,72.88030444699154,3.0,3.0,1.0,1.0,1.0,SAS,New Property,Semi-Furnished,Flat
+105.0,2300.0,19.14413,72.8241,5.0,5.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Individual House
+18.0,982.0,19.07023,72.876903,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+30.0,1320.0,19.1463311089977,72.834625772999,3.0,3.0,1.0,1.0,1.0,Ready to Move,Resale,SAS,Flat
+23.0,1420.0,19.17100978,72.87098943,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,SAS,Flat
+39.9,2014.0,19.0850187,72.9101616,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+13.899999999999999,690.0,19.20768,72.83846,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+35.0,1000.0,19.038438,72.84199090000001,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,SAS,Flat
+15.0,571.0,19.07907,72.907976,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Individual House
+10.0,600.0,19.2273315,72.8637286,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+15.0,1053.0,19.140908,72.929767,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+17.0,1215.0,19.173857712203898,72.942288,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+75.0,2250.0,19.119216918945312,72.86460876464844,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+42.0,1456.0,19.079932,72.90698,3.0,4.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+7.8,700.0,19.149901,72.931134,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+15.0,1080.0,19.2149599,72.81775490000001,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+15.0,850.0,19.032798767089844,72.89635467529297,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+13.700000000000001,1100.0,19.03377914428711,72.85652923583984,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+12.0,850.0,19.16732,72.87680999999999,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+16.0,962.0,19.200165,72.868551,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+21.5,1200.0,19.10919095,72.88469140000001,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+20.3,655.0,19.196752548217773,72.84151458740234,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+40.0,1200.0,18.9970888,72.8186688,2.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+13.5,1200.0,19.21649932861328,72.8341293334961,2.0,3.0,1.0,1.0,1.0,Ready to Move,Resale,Furnished,Flat
+18.0,1255.0,19.309392300000003,72.84912270000001,3.0,3.0,1.0,1.0,1.0,Ready to Move,Resale,SAS,Flat
+16.0,760.0,19.2335321,72.839198,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+16.5,933.0,19.13675117492676,72.8697738647461,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+16.0,800.0,19.258105,72.8519218,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+20.0,1200.0,19.177220805592,72.8705878488227,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,SAS,Flat
+18.0,1000.0,19.14811897277832,72.8423080444336,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,Unfurnished,Flat
+6.85,935.0,19.21393394470215,72.85504150390625,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,Furnished,Flat
+46.0,1380.0,19.1173012,72.8840395,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+16.5,900.0,19.0799983,72.8545019,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Individual House
+14.5,774.0,19.0327996,72.89635679999999,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+8.8,985.0,19.28301132,72.87943481,2.0,2.0,3.0,3.0,3.0,Ready to Move,Resale,SAS,Flat
+35.0,950.0,19.01666641235352,72.81666564941406,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+7.659999999999999,882.0,19.26231203,72.87409673,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+22.8,1050.0,19.2130921,72.8650782,3.0,3.0,1.0,1.0,1.0,Ready to Move,Resale,SAS,Flat
+105.0,3000.0,19.0128986,72.8337765,5.0,4.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+8.5,1100.0,19.0647798,73.04431590000002,2.0,2.0,2.0,2.0,2.0,Ready to Move,Resale,Unfurnished,Flat
+13.5,700.0,19.133092,72.93475,2.0,2.0,2.0,2.0,2.0,SAS,New Property,Unfurnished,Individual House
+27.0,1200.0,19.184664,72.836473,2.0,2.0,2.0,2.0,2.0,Ready to Move,Resale,SAS,Flat
+24.5,1325.0,19.2302127,72.848794,2.0,2.0,3.0,3.0,3.0,Ready to Move,Resale,SAS,Flat
+20.0,1165.0,19.160377,72.796111,2.0,2.0,1.0,1.0,1.0,SAS,Resale,Furnished,Flat
+18.5,870.0,19.165226,72.83551,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+23.5,1110.0,19.07047,72.84949329999999,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+16.0,1600.0,19.2308654,73.0713733,3.0,2.0,3.0,3.0,3.0,Ready to Move,Resale,Furnished,Flat
+7.0,1020.0,19.28217,72.87654,2.0,2.0,0.0,0.0,0.0,SAS,Resale,Semi-Furnished,Flat
+16.5,520.0,19.1462121,72.85349609999999,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+10.0,1030.0,19.27509563,72.87891972,2.0,2.0,3.0,3.0,3.0,Ready to Move,Resale,SAS,Flat
+24.0,700.0,19.0070668,72.8196482,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Individual House
+82.5,1000.0,18.963706,72.80612629999999,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+21.7,1250.0,19.11132745,72.90133335,3.0,3.0,1.0,1.0,1.0,Ready to Move,Resale,SAS,Flat
+13.799999999999999,850.0,19.118932723999023,72.86396789550781,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+20.0,1000.0,19.213815689086918,72.85486602783203,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+18.0,1125.0,19.1746739,72.94310379999999,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+15.8,1129.0,19.200165,72.868551,2.0,2.0,0.0,0.0,0.0,Ready to Move,New Property,SAS,Flat
+20.0,1350.0,19.10919095,72.88469140000001,2.0,2.0,0.0,0.0,0.0,Ready to Move,New Property,SAS,Flat
+51.0,2685.0,19.22393319,72.84751773,4.0,4.0,8.0,8.0,8.0,Ready to Move,New Property,SAS,Individual House
+16.0,950.0,19.1746739,72.94310379999999,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+11.0,764.0,19.153299,72.88662099999999,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+25.0,700.0,19.0810128,72.8500709,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+28.8,1247.0,19.1137131,72.86100970000001,2.0,2.0,1.0,1.0,1.0,SAS,New Property,Unfurnished,Flat
+8.5,783.0,19.261664,72.87431099999999,2.0,2.0,2.0,2.0,2.0,Ready to Move,New Property,SAS,Flat
+13.5,770.0,19.20569610595703,72.83206176757812,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+16.5,950.0,19.18743896484375,72.94652557373047,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+49.1,2000.0,19.24806022644043,72.85539245605469,4.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+6.6,1010.0,19.234639,73.16113399999999,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+17.5,900.0,18.9988745,72.854548,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+5.0,1120.0,19.4613467,72.7770829,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,SAS,Flat
+17.5,1250.0,19.1649294,72.83755359999999,2.0,2.0,3.0,3.0,3.0,Ready to Move,Resale,SAS,Flat
+10.6,1800.0,19.1889733,72.8220064,3.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+130.0,2150.0,19.098821,72.8320717,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+21.0,850.0,19.043911,72.89877800000001,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+29.0,1250.0,19.1154899597168,72.87269592285156,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,Unfurnished,Flat
+15.0,1100.0,19.0874312,72.89509179999999,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+32.5,1850.0,19.2335321,72.839198,4.0,4.0,6.0,6.0,6.0,SAS,New Property,Unfurnished,Flat
+70.0,1650.0,19.0627565,72.8545019,4.0,5.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+14.0,900.0,19.210044860839844,72.81835174560547,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+120.0,3200.0,19.09882164001465,72.83206939697266,4.0,3.0,3.0,3.0,3.0,Ready to Move,Resale,Semi-Furnished,Flat
+7.0,955.0,19.28217,72.87654,2.0,2.0,2.0,2.0,2.0,Ready to Move,Resale,SAS,Flat
+4.8,830.0,19.46959989,72.7964171,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,SAS,Flat
+12.7,1048.0,19.1322925,72.8604097,2.0,2.0,3.0,3.0,3.0,SAS,New Property,Semi-Furnished,Flat
+13.5,985.0,19.1746739,72.94310379999999,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,SAS,Individual House
+7.8,882.0,19.26231203,72.87409673,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+26.0,1100.0,19.072772,72.86340600000001,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Individual House
+21.0,600.0,19.126587,72.833474,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+8.0,915.0,19.30477905273437,72.86041259765625,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+40.0,1635.0,19.119251251220703,72.86459350585938,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+44.5,2586.0,19.09080696105957,72.90766906738281,5.0,4.0,2.0,2.0,2.0,Ready to Move,Resale,Semi-Furnished,Flat
+6.0,910.0,19.2097110748291,73.11537170410156,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,Semi-Furnished,Flat
+9.0,850.0,19.4540588,72.7688226,2.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Individual House
+35.0,1765.0,19.2099437,72.83086920000001,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+57.0,990.0,18.95075416564941,72.80206298828125,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+55.0,1200.0,18.97607,72.82728,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+20.5,957.0,19.126587,72.833474,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Individual House
+14.5,800.0,19.11895751953125,72.86405181884766,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,Unfurnished,Flat
+11.0,1750.0,19.240615100000003,73.0951298,3.0,3.0,2.0,2.0,2.0,Ready to Move,Resale,SAS,Flat
+15.0,750.0,18.961389541625977,72.83798217773438,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+16.0,820.0,19.23395,72.863837,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+7.5,960.0,19.298449,72.874453,2.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+18.0,1600.0,19.27831268310547,72.85801696777344,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,Furnished,Flat
+35.0,900.0,19.100385665893555,72.8504638671875,3.0,3.0,1.0,1.0,1.0,Ready to Move,New Property,Unfurnished,Flat
+15.0,900.0,19.12011337280273,72.89909362792969,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+6.5,600.0,19.0472012,72.8722249,3.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+36.0,1500.0,19.0327996,72.89635679999999,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+16.299999999999997,900.0,19.202228,72.815271,2.0,2.0,2.0,2.0,2.0,Ready to Move,Resale,SAS,Flat
+5.55,860.0,19.45405960083008,72.7688217163086,2.0,2.0,4.0,4.0,4.0,Ready to Move,Resale,Unfurnished,Flat
+65.0,1650.0,19.0815087,72.8376755,3.0,4.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+12.0,920.0,19.058354100000003,72.8802798,2.0,2.0,2.0,2.0,2.0,Ready to Move,Resale,SAS,Individual House
+10.0,1100.0,19.174673080444336,72.94310760498047,2.0,2.0,1.0,1.0,1.0,Ready to Move,New Property,Furnished,Flat
+13.0,800.0,19.227331161499023,72.86373138427734,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+38.0,2226.0,19.183819,72.86111600000001,3.0,4.0,3.0,3.0,3.0,SAS,Resale,Semi-Furnished,Flat
+4.1,875.0,19.46638335,72.79704502,2.0,2.0,2.0,2.0,2.0,Ready to Move,Resale,SAS,Flat
+15.0,1355.0,19.3093926,72.8485939,3.0,3.0,4.0,4.0,4.0,Ready to Move,Resale,Unfurnished,Flat
+23.9,840.0,19.10796833,72.84174333,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,SAS,Flat
+19.0,900.0,19.103515625,72.84521484375,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Furnished,Flat
+40.0,1000.0,19.0008985876886,72.8389541842401,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+16.0,1026.0,19.167328,72.93478449999999,2.0,2.0,0.0,0.0,0.0,SAS,Resale,Unfurnished,Flat
+8.5,900.0,19.291229,72.87831800000001,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,SAS,Flat
+15.0,1100.0,19.09698958,72.88535274,2.0,2.0,1.0,1.0,1.0,SAS,Resale,Unfurnished,Flat
+131.0,4000.0,19.138865,72.834731,5.0,4.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+14.0,900.0,19.0435819,72.8930043,2.0,2.0,4.0,4.0,4.0,Ready to Move,Resale,SAS,Flat
+15.0,800.0,19.1242932,72.9212788,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+18.0,850.0,19.1190964,72.8489194,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+15.0,1525.0,19.11893653869629,72.86397552490234,3.0,3.0,2.0,2.0,2.0,Ready to Move,Resale,Furnished,Flat
+29.0,1500.0,19.119234085083008,72.86463928222656,4.0,4.0,2.0,2.0,2.0,Ready to Move,Resale,Semi-Furnished,Flat
+25.0,700.0,19.180237,72.85541490000001,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,Furnished,Flat
+18.5,950.0,19.116876,72.926552,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,SAS,Flat
+8.5,950.0,19.28001,72.866725,2.0,2.0,3.0,3.0,3.0,Ready to Move,Resale,SAS,Flat
+25.0,985.0,19.1179435,72.85146970000001,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+17.0,675.0,19.11923599243164,72.8638916015625,2.0,2.0,0.0,0.0,0.0,Ready to Move,New Property,Unfurnished,Flat
+17.5,855.0,19.2296991,72.8322292,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+22.0,790.0,19.079463,72.84955699999999,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,SAS,Flat
+52.0,1094.0,18.970389,72.8042755,2.0,3.0,1.0,1.0,1.0,Ready to Move,Resale,Unfurnished,Flat
+33.0,890.0,19.12537002563477,72.8254165649414,3.0,3.0,0.0,0.0,0.0,Ready to Move,Resale,Unfurnished,Flat
+30.0,1050.0,19.01512908935547,72.85806274414062,2.0,2.0,2.0,2.0,2.0,Ready to Move,New Property,Semi-Furnished,Flat
+15.0,780.0,19.233531951904297,72.83919525146484,2.0,2.0,0.0,0.0,0.0,Ready to Move,New Property,Unfurnished,Flat
+16.5,780.0,19.0327996,72.89635679999999,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+8.6,1250.0,19.234639,73.16113399999999,2.0,2.0,2.0,2.0,2.0,SAS,New Property,Unfurnished,Flat
+5.2,823.0,19.4604975,72.7739752,2.0,2.0,3.0,3.0,3.0,Ready to Move,Resale,SAS,Flat
+22.5,1111.0,19.0327996,72.89635679999999,2.0,2.0,0.0,0.0,0.0,Ready to Move,Resale,Semi-Furnished,Flat
+75.0,3500.0,19.032798767089844,72.89635467529297,5.0,5.0,4.0,4.0,4.0,Ready to Move,Resale,Semi-Furnished,Flat
+7.2,600.0,19.22889,72.82409,2.0,2.0,1.0,1.0,1.0,Ready to Move,Resale,Semi-Furnished,Flat
+17.0,940.0,19.149901,72.931134,2.0,2.0,0.0,0.0,0.0,Ready to Move,New Property,SAS,Flat
+35.0,1417.0,19.15008523,72.84706892,3.0,3.0,4.0,4.0,4.0,Ready to Move,Resale,SAS,Individual House
+22.400000000000002,629.0,19.0327996,72.89635679999999,2.0,2.0,0.0,0.0,0.0,Under Construction,New Property,SAS,Flat
+31.7,968.0,19.156803451091626,72.909277,3.0,3.0,0.0,0.0,0.0,Under Construction,New Property,SAS,Flat
+35.0,1185.6587238125699,19.156803451091626,72.89635679999999,3.0,2.0,0.0,0.0,0.0,Under Construction,New Property,SAS,Flat
